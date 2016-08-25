@@ -1,16 +1,16 @@
-typography_spectrum: 0.6240214344579726
+layout_spectrum: 0.6144660895224661
+typography_spectrum: 0.7418523726519197
 color:
-  brandStrength: 0.1314144532661885
-  lightness: 0.47038767277263105
-  saturation: 0.03606316237710416
-  rhythmicContrast: 0.22845214372500777
+  brandStrength: 0.7571212593466043
+  lightness: 0.9081405706238002
+  saturation: 0.7350559621118009
+  rhythmicContrast: 0.13619650108739734
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.9594363097567111
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: Tooth & Nail
 navigation:
   - name: VSCO
