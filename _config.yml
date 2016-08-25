@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.9594363097567111
 name: Tooth & Nail
+navigation:
+  - name: VSCO
+    url: vsco.co/brdst/
+    type: external
 title: Marketing Portfolio
 description: A Briefcase and A Bag of Tricks
