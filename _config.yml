@@ -1,4 +1,3 @@
-layout_spectrum: 0.9594363097567111
 typography_spectrum: 0.6240214344579726
 color:
   brandStrength: 0.1314144532661885
@@ -6,9 +5,11 @@ color:
   saturation: 0.03606316237710416
   rhythmicContrast: 0.22845214372500777
   brandColors:
-    - '#101010'
-    - '#767676'
-    - '#B0B0B0'
-    - '#E8E8E8'
-    - '#854634'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.9594363097567111
 name: Tooth & Nail
+description: A Briefcase and A Bag of Tricks
